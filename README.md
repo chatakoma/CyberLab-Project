@@ -3,7 +3,6 @@
 <h2>Project Description</h2>
 This project is a responsive CyberLab Student View designed using HTML and CSS. As part of my Senior Project I, the goal was to create a CyberLab website tailored for cybersecurity students. This is the second working prototype, for which I was responsible for designing the interface using HTML and CSS. After our team finalized the mockup for the student view of the CyberLab website, I took on the task of turning the design into a functional product. Although the overall project is developed using Angular, the functionalities in this prototype were implemented with HTML and CSS. This project highlights my front-end development skills.
 
-
 <b><h3>
    key Features:
    <h4>
