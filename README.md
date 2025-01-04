@@ -29,7 +29,7 @@ This project is a responsive CyberLab Student View designed using HTML and CSS. 
 
 <h2>Program walk-through:</h2>
 <p align="center">
- The image below illustrates the recreated design of the CyberLab Student View, highlighting its overall layout and structure
+The image below illustrates the recreated design of the CyberLab Student View, highlighting its overall layout and structure
 <p/> 
 <img src="https://i.imgur.com/A0i0C4D.png" height="100%" width="100%" alt=""/>  
 
