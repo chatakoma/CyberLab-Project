@@ -36,4 +36,4 @@ This project is a responsive reacreation of the YouTube homepage, build with HTM
 <br/>
 You can view a video demo of the CyberLab Student View Website, highlighting its key features.
 
-https://github.com/user-attachments/assets/47bcf5ef-d3b7-4060-9f24-b4e95ae5f04f
+
