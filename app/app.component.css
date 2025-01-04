@@ -1,0 +1,213 @@
+.container{
+ display: flex;
+ flex-direction:row ;
+
+}
+
+.left-side{
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  background-color: lightgray;
+  top: 0;
+  bottom:0;
+ 
+  
+}
+
+.Lab-Title{
+ height: 50px;
+ width: 100%;
+ background-color:rgb(54, 54, 185);
+ color: white;
+ display: flex;
+ text-align: center;
+ justify-content: center;
+ align-items: center;
+
+
+}
+.Section-Title{ 
+  height: 50px;
+  width: 100%;
+  background-color:rgb(19, 134, 172);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.progress-bar{
+  height: 8px;
+  width: 90%;
+  border-radius: 4px;
+  background-color: blue;
+  margin-left: 5px;
+  margin-bottom: 10px;
+}
+
+
+.text-container{
+  display: flex;
+  flex-direction: row;
+  margin-top:35px
+
+ 
+  
+}
+
+.question-number{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px; 
+  margin-left: 2px;
+  font-weight: bold;
+  border-color: orange;
+  border-width: 1px;
+  border-style: solid;
+
+
+}
+
+.text{
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+}
+
+.question-type01{
+  margin-top: 15px;
+  margin-left: 5px;
+
+}
+
+.textbox{
+  width: 90%;
+  border-radius: 10px;
+  height: 30px;
+  border:none;
+}
+
+.description02{
+  font-weight: bold;
+  margin-top: 6px;
+}
+
+.previous-next-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+  width:100%;
+  margin-top: 60px;
+  background-color: gray;
+ 
+
+}
+
+.Previous{
+  width: 30px;
+  margin-left: 5px;
+}
+
+.Next{
+  width:  30px;
+  margin-right: 5px;
+}
+
+.Previous-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.Next-container{
+  display: flex;
+  flex: row;
+}
+
+.previous-text{
+  display: flex;
+  align-items: center;
+
+}
+
+.next-text{
+  display: flex;
+  align-items: center;
+}
+
+.right-side{
+  width: 900px;
+  flex: 1;
+  background-color: black;
+  bottom: 0;
+  
+}
+
+
+.vm-header{
+  height:44px;
+  width: 100%;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.Topology-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-icon{
+  width: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+
+.hamburger-icon{
+  width: 20px;
+  margin-left: 25px;
+  margin-right: 5px;
+
+}
+
+
+.down-arrow-icon{
+  width: 30px;
+}
+
+.stop-button{
+  margin-right: 10px;
+  padding: 4px 10px 4px 10px;
+  color: white;
+  background-color: rgb(232, 71, 12);
+  border: none;
+  border-radius: 5px;
+}
+
+vm-image-container{
+  display: flex;
+  margin-top:200px;
+ 
+  
+}
+
+
+.vm-image{
+
+  margin-top: 200px;
+  width: 100%;
+
+ 
+}
